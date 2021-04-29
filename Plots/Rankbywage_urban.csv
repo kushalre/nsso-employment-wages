@@ -1,0 +1,93 @@
+"","Var1","Freq","meanwage","Occupation","percentshare"
+"56","61",4370,0.851507346409701,"Cultivators",4.467
+"39","40",9541,2.12195542525032,"Merchants and Shopkeepers, Wholesale and Retail Trade",9.753
+"57","62",1369,2.50594903946817,"Farmers, Other than Cultivators",1.399
+"52","56",566,5.76465921451194,"Hair Dressers, Barbers, Beauticians and Related Workers",0.579
+"46","50",765,6.84624118127903,"Hotel and Restaurant Keepers",0.782
+"51","55",753,8.46756976262288,"Launderers, DryCleaners and Pressers",0.77
+"44","45",77,14.3173892002435,"Money Lenders and Pawn Brokers",0.079
+"63","68",430,14.860366510834,"Fishermen and Related Workers",0.44
+"62","67",15,17.2888576779026,"Hunters and Related Workers",0.015
+"73","80",506,17.8707625435051,"ShoeMakers and Leather Goods Makers",0.517
+"19","18",149,18.2314643379246,"Composers and Performing Artists",0.152
+"43","44",680,18.3907010572794,"Insurance, Real Estates, Securities and Business Service Salesmen and Auctioneers",0.695
+"72","79",2804,18.7018072275457,"Tailors, Dress Makers, Sewers, Upholsterers and Related Workers",2.866
+"71","78",1376,19.9530990051633,"Tobacco Preparers and Tobacco Product Makers",1.407
+"49","53",1738,22.0322104545092,"Maids and Related House Keeping Services Workers",1.777
+"84","91",222,22.0592441165606,"Paper and Paper Board Product Makers",0.227
+"42","43",4405,22.2519425560551,"Salesmen, Shop Assistants and Related Workers",4.503
+"58","63",3357,23.005749455334,"Agricultural Labourers",3.432
+"82","89",382,23.40552013192,"Glass Formers, Potters and Related Workers",0.39
+"87","94",645,24.2606510031967,"Production and Related Workers",0.659
+"25","24",1841,24.2856629849319,"Working Proprietors, Directors and Managers, Mining Construction, Manufacturing and Related Concerns",1.882
+"70","77",1457,24.4634867932942,"Food and Beverage Processors",1.489
+"23","22",768,24.5229128830417,"Working Proprietors, Directors and Managers, Wholesale and Retail Trade",0.785
+"81","88",924,24.9617844720852,"Jewellery and Precious Metal Workers and Metal Engravers (Except Printing)",0.945
+"20","19",323,26.6057097149342,"Professional Workers",0.33
+"74","81",1362,30.3831178984816,"Carpenters, Cabinet and Related Wood Workers",1.392
+"60","65",382,30.5487577520398,"Other Farm Workers",0.39
+"61","66",180,30.5798701164186,"Forestry Workers",0.184
+"27","26",511,30.6918465098697,"Working Proprietors, Directors and Managers, Other Services",0.522
+"75","82",185,30.9367367007951,"Stone Cutters and Carvers",0.189
+"45","49",183,31.85754942516,"Sales Workers",0.187
+"88","95",2361,33.3527399837074,"Bricklayers and Other Construction Workers",2.413
+"18","17",170,34.9379842813144,"Sculptors, Painters, Photographers and Related Creative Artists",0.174
+"26","25",282,35.4270147119643,"Working Proprietors, Directors, Managers and Related Executives, Transport, Storage and Communication",0.288
+"59","64",269,35.650625382436,"Plantation Labourers and Related Workers",0.275
+"48","52",1096,35.6805468267856,"Cooks, Waiters, Bartenders and Related Workers (Domestic and Institutional)",1.12
+"15","14",351,37.224520732457,"Jurists",0.359
+"54","59",244,38.6397567018391,"Service Workers",0.249
+"83","90",346,40.1187733945655,"Rubber and Plastics Products Makers",0.354
+"86","93",373,41.9580930874562,"Painting",0.381
+"66","73",301,43.0658791395279,"Wood Preparation Workers and Paper Makers",0.308
+"92","99",4123,44.5130387591538,"Labourers",4.215
+"68","75",4739,44.6289258055967,"Spinners, Weavers, Knitting, Dyers and Related Workers",4.844
+"85","92",672,44.9709876320137,"Printers and Related Workers",0.687
+"47","51",65,45.1907697762354,"House Keepers, Matrons and Stewards (Domestic and Institutional)",0.066
+"40","41",480,47.536567368835,"Manufacturers' Agents",0.491
+"69","76",76,47.9732328490559,"Tanners, Fellmongers and Pelt Dressers",0.078
+"50","54",1662,50.1411179327842,"Building Caretakers, Sweepers, Cleaner and Related Workers",1.699
+"91","98",4127,52.4181831747587,"Transport Equipment Operators",4.219
+"80","87",778,54.9133998507284,"Plumbers, Welders, Sheet Metal, Structural Metal Preparers and Erectors",0.795
+"90","97",1589,56.0454285908377,"Material Handling and Related Equipment Operators, Dockers and Freight Handlers",1.624
+"76","83",1123,56.8575150072993,"Blacksmiths, Tool-Makers and Machine Tool Operators",1.148
+"77","84",2588,58.2982613297763,"Machinery Fitters Machine Assemblers and Precision Instrument Makers (Except Electrical)",2.646
+"37","38",260,61.2102528752403,"Mail Distributors and Related Workers",0.266
+"79","86",70,64.4889134198402,"Broadcasting Station & Sound Equipment Operators & Cinema Projectionists",0.072
+"78","85",1658,70.8718580724503,"Electrical Fitters and Related Electrical and Electronic Workers",1.695
+"55","60",93,71.7323065840299,"Farm Plantation, Dairy and Other Managers and Supervisor",0.095
+"65","72",614,71.9067588381683,"Metal Processors",0.628
+"89","96",397,72.0026480617797,"Stationary Engines and Related Equipment Operators and Oliers and Greasers",0.406
+"12","11",20,76.0504001185888,"Economists and Related Workers",0.02
+"2","01",52,81.8679122986944,"Physical Science Technicians",0.053
+"64","71",580,82.6996106188736,"Miners, Quarrymen, Well Drillers and Related Workers",0.593
+"36","37",357,86.7635391581919,"Transport Conductor and Guards",0.365
+"34","35",7515,86.8771970044485,"Clerical and Related Workers",7.682
+"9","08",740,87.4029084647488,"Nurses and Other Medical and Health Technicians",0.756
+"7","06",38,88.0381106516038,"Life Science Technicians",0.039
+"30","31",109,88.5091565115228,"Village Officials",0.111
+"41","42",111,89.8535596343143,"Technical Salesmen and Commercial Travellers",0.113
+"8","07",606,93.5684265104151,"Physicians and Surgeons",0.619
+"53","57",2288,95.2614300328427,"Protective Service Workers",2.339
+"67","74",284,97.4193274512004,"Chemical Processors and Related Workers",0.29
+"21","20",35,102.620394881977,"Elected and Legislative Officials",0.036
+"31","32",557,105.633874374264,"Stenographers, Typists and Card and Tape Punching Operators",0.569
+"16","15",3959,105.779907003379,"Teachers",4.047
+"38","39",229,111.807666621055,"Telephone and Telegraph Operators",0.234
+"14","13",108,117.697704757703,"Social Scientists and Related Workers",0.11
+"32","33",1222,118.701334749483,"Book Keepers, Cashiers and Related Workers",1.249
+"29","30",1891,128.815578853348,"Clerical and Other Workers",1.933
+"28","29",157,130.182965556479,"Administrative, Executive and Managerial Workers ",0.16
+"35","36",300,132.728938457073,"Transport and Communication Supervisors",0.307
+"10","09",65,134.481548116161,"Scientific Medical and Technical Persons, Other",0.066
+"33","34",55,135.06859112289,"Computing Machine Operator",0.056
+"13","12",688,135.226111618992,"Accountants, Auditors and Related Workers",0.703
+"11","10",88,136.805537034509,"Mathematicians, Statisticians and Related Workers",0.09
+"17","16",57,143.477414647834,"Poets, Authors, Journalists and Related Workers",0.058
+"1","00",84,145.432366209513,"Physical Scientists",0.086
+"4","03",731,148.405062489474,"Engineering Technicians",0.747
+"6","05",67,164.786514618386,"Life Scientists",0.068
+"22","21",500,184.349297674363,"Administrative and Executive Officials, Govt and Local Bodies",0.511
+"3","02",702,193.892205809097,"Architects, Engineers, Technologists and Surveyors",0.718
+"24","23",222,248.461867869569,"Directors and Managers, Financial Institutions",0.227
+"5","04",70,279.039234844687,"Aircraft and Ships Officers",0.072
